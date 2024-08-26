@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing my B.Tech degree in Computer Science Engineering.
 - 💞️ I’m currently learning DSA with Java language.
 - 📫 You can contact me with
+- E-Mail    -:  vivekyad240706@gmail.com
 - Instagram -:  @vivek_yadav.07x
 - LinkedIn  -:  https://www.linkedin.com/in/vivek-yadav-coder/
 
