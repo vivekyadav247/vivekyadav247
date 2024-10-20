@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Yadav.
-- 👀 I’m interested in Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently pursuing my B.Tech degree in Computer Science Engineering.
 - 💞️ I’m currently learning DSA with Java language.
 - 📫 You can contact me with
