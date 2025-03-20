@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Yadav.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently pursuing my B.Tech degree in Computer Science Engineering.
-- 💞️ I’m currently learning DSA with Java language.
+- 💞️ I’m currently learning DSA with Java language and Web development with MERN Stack Technology .
 - 📫 You can contact me with
 - E-Mail    -:  vivekyad240706@gmail.com
 - LinkedIn  -:  https://www.linkedin.com/in/vivek-yadav-coder/
