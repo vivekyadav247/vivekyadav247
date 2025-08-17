@@ -8,10 +8,6 @@
 <h2 align="center">✨ About Me ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Hi+I'm+Vivek+Yadav;A+Passionate+Full+Stack+Developer;DSA+Enthusiast+%7C+Java+%7C+React;Always+Learning+New+Things+🚀" />
-</p>
-
-<p align="center">
   🌱 I’m currently learning <b>Java DSA & MERN Stack</b> <br>
   💡 Exploring <b>AI + Blockchain</b> for future innovations <br>
   🎯 Goal: To contribute in <b>Open Source</b> & build impactful products <br>
@@ -58,10 +54,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vivekyadav"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vivekyadav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vivek-yadav-coder"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vivekyadav247"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:vivekyad240706@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/vivekyadav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/vivek_07x"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
