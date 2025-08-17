@@ -5,13 +5,6 @@
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78D1F&center=true&vCenter=true&width=600&lines=Java+Developer+🔥;DSA+Enthusiast+📘;Open+Source+Contributor+🌍;Full+Stack+Learner+💻" alt="Typing SVG" />
-</p>
-
----
-
 <!-- GitHub Stats (Keep same, looks great) -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
@@ -34,44 +27,31 @@
 
 ---
 
-<!-- Fun Animated GIF -->
-<h2 align="center">⚡ A Little About Me ⚡</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-<p align="center">
-  🌟 Always learning <b>new things</b> <br>
-  💻 Solving <b>DSA</b> problems daily <br>
-  🚀 Working on exciting <b>projects</b> <br>
-  🎯 Dreaming big & building bigger <br>
-</p>
-
----
-
 <!-- Visitor Counter (Stylish one) -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vivekyadav247&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" /> 
 </p>
 
+
 ---
 
-## ⚡ Fun Quote
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤝 Let’s Connect  
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/vivekyad2407" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vivekyad240706@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vivekyad2407" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🌟 Let's Connect
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/VivekYadav2407)
-
-</div>
-
+✨ *"Code, Debug, Repeat — Until Success!"* 🚀 
 ---
 
 <!-- Wave Animation Footer -->
