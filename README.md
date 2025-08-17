@@ -1,12 +1,39 @@
-- 👋 Hi, I’m Vivek Yadav.
-- 👀 I’m MERN Stack Web Developer.
-- 🌱 I’m currently pursuing my B.Tech degree in Computer Science Engineering.
-- 💞️ I’m currently learning DSA with Java language and Web development with MERN Stack Technology .
-- 📫 You can contact me with
-- E-Mail    -:  vivekyad240706@gmail.com
-- LinkedIn  -:  https://www.linkedin.com/in/vivek-yadav-coder/
+# Hi there, I'm Vivek Yadav 👋  
 
-<!---
-vivekyadav247/vivekyadav247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **MERN Stack Developer | Java + DSA | Problem Solver**
+
+---
+
+## 🚀 About Me  
+- 🎓 Student at **Jawaharlal Institute of Technology, Borawan**  
+- 🌱 Currently on a **#100DaysOfCode** journey focusing on **Java + DSA**  
+- 🛠️ Building full-stack projects with the **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🔥 Passionate about solving real-world problems with **Code + Creativity**  
+- 🎥 Running my YouTube channel **Bihari Developer**, where I explain coding concepts in a unique style  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java, JavaScript, C++  
+**DSA:** Java (PW Skills, LeetCode, GFG practice)  
+**Web Development (MERN):** MongoDB, Express.js, React, Node.js  
+**Styling & UI:** Tailwind CSS, Bootstrap  
+**Other Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Stats  
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekYadav2407&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekYadav2407&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me  
+- 📧 Email: [vivekyad240706@gmail.com](mailto:vivekyad240706@gmail.com)  
+- 💼 LinkedIn: [Vivek Yadav](https://linkedin.com/in/vivek-yadav)  
+- 📺 YouTube: [Bihari Developer](https://youtube.com/@biharideveloper)  
+
+---
+
+✨ *"Code, Learn, Build, and Repeat."* 🚀
