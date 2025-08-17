@@ -1,56 +1,60 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vivek+Yadav!;Full+Stack+Developer+%7C+Java+%26+DSA;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing Animation" />
-</h1>
+<!-- Stylish Heading -->
+<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
+<h3 align="center">🚀 Passionate Java | DSA | Full-Stack Developer 🚀</h3>
 
 ---
 
-## 🚀 About Me
-💻 Passionate **Developer & Tech Enthusiast**  
-📚 Currently exploring **DSA with Java** & **Full-Stack Development**  
-⚡ Love building **real-world impactful projects**  
-🎯 Goal: To grow as a **problem-solver & creator**  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78D1F&center=true&vCenter=true&width=600&lines=Java+Developer+🔥;DSA+Enthusiast+📘;Open+Source+Contributor+🌍;Full+Stack+Learner+💻" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![DSA](https://img.shields.io/badge/DSA-Important-red?style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-</div>
+<!-- GitHub Stats (Keep same, looks great) -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav247&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav247&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav247&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=vivekyadav247&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav247&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav247&layout=compact&theme=radical&hide_border=true)
-
-</div>
+<!-- Skills Section -->
+<h2 align="center">🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,mysql,git,github,html,css,bootstrap,tailwind" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekyadav247)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](#)  
-[![Email](https://img.shields.io/badge/Email-vivekyad240706%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekyad240706@gmail.com)  
-
-</div>
+<!-- Fun Animated GIF -->
+<h2 align="center">⚡ A Little About Me ⚡</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+<p align="center">
+  🌟 Always learning <b>new things</b> <br>
+  💻 Solving <b>DSA</b> problems daily <br>
+  🚀 Working on exciting <b>projects</b> <br>
+  🎯 Dreaming big & building bigger <br>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<!-- Visitor Counter (Stylish one) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vivekyadav247&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" /> 
+</p>
+
+---
+
+<!-- Wave Animation Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
