@@ -37,7 +37,6 @@
 ## 🌐 Connect With Me  
 - 📧 Email: [vivekyad240706@gmail.com](mailto:vivekyad240706@gmail.com)  
 - 💼 LinkedIn: [Vivek Yadav](https://linkedin.com/in/vivek-yadav)  
-- 📺 YouTube: [Bihari Developer](https://youtube.com/@biharideveloper)  
 
 ---
 
