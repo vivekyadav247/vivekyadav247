@@ -1,6 +1,7 @@
 <!-- Stylish Heading -->
-<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">🚀 Passionate Java | DSA | Full-Stack Developer 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=Hey%2C+I'm+Vivek+Yadav!;Java+%7C+DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -51,6 +52,16 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vivekyadav247&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" /> 
 </p>
+
+---
+
+## 🌟 Let's Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/VivekYadav2407)
+
+</div>
 
 ---
 
