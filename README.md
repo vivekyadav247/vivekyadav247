@@ -30,7 +30,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav247&theme=tokyonight)  
 
-![Profile Views](https://count.getloli.com/get/@vivekyadav247?theme=rule34)
+![Profile Views](https://komarev.com/ghpvc/?username=vivekyadav247&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
 
 
 ---
