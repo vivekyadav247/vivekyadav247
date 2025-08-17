@@ -23,9 +23,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekYadav2407&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekYadav2407&layout=compact&theme=tokyonight)  
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekyadav247&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav247&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav247&theme=tokyonight)  
+
+![Visitor Count](https://profile-counter.glitch.me/vivekyadav247/count.svg)  
 
 ---
 
