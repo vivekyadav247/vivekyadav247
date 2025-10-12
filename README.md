@@ -5,13 +5,13 @@
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="center"> About Me </h2>
 
 <p align="center">
-  🌱 I’m currently learning <b>Java DSA & MERN Stack</b> <br>
-  💡 Exploring <b>AI + Blockchain</b> for future innovations <br>
-  🎯 Goal: To contribute in <b>Open Source</b> & build impactful products <br>
-  ⚡ Fun fact: I code better with a cup of ☕
+   I’m currently learning <b>Java DSA & MERN Stack</b> <br>
+   Exploring <b>AI + Blockchain</b> for future innovations <br>
+   Goal: To contribute in <b>Open Source</b> & build impactful products <br>
+   Fun fact: I code better with a cup of ☕
 </p>
 
 
@@ -32,7 +32,7 @@
 ---
 
 <!-- Skills Section -->
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,mysql,git,github,html,css,bootstrap,tailwind" />
 </p>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect 🤝</h2>
+<h2 align="center"> Let's Connect 🤝</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Let's+Collaborate+and+Build+Something+Awesome!;Connect+with+me+on+👇" alt="Typing SVG" />
