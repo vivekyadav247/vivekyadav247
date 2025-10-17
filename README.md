@@ -8,7 +8,7 @@
 <h2 align="center"> About Me </h2>
 
 <p align="center">
-   I’m currently learning <b>Java DSA & MERN Stack</b> <br>
+   I’m currently learning <b>DSA & MERN Stack</b> <br>
    Exploring <b>AI + Blockchain</b> for future innovations <br>
    Goal: To contribute in <b>Open Source</b> & build impactful products <br>
    Fun fact: I code better with a cup of ☕
