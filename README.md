@@ -1,6 +1,6 @@
 <!-- Stylish Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=Hey%2C+I'm+Vivek+Yadav!;Java+%7C+DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=Hey%2C+I'm+Vivek+Yadav!;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
 ---
