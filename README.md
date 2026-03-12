@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Full+Stack-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=00b894" />
+  <img src="https://img.shields.io/badge/Code-Full Stack-informational?style=for-the-badge&logo=codeforces&logoColor=white&color=00b894" />
   <img src="https://komarev.com/ghpvc/?username=vivekyadav247&style=for-the-badge&color=7c3aed" />
   <img src="https://img.shields.io/github/followers/vivekyadav247?style=for-the-badge&color=1f6feb&label=Followers" />
   <img src="https://img.shields.io/github/stars/vivekyadav247?style=for-the-badge&color=ffb703&label=Stars" />
