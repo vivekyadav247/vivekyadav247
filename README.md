@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hey+there+%F0%9F%91%8B+I%E2%80%99m+Vivek+Yadav;I+build+scalable+MERN+%2B+Java+Spring+projects;Solving+DSA+problems+daily+to+level+up;Exploring+AI+%2B+Blockchain+for+future+tech" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hey+there+%F0%9F%91%8B+I%E2%80%99m+Vivek+Yadav;I+build+scalable+Full+Stack+projects;Solving+DSA+problems+daily+to+level+up;Exploring+AI+%2B+ML+for+future+tech" alt="typing intro" />
 </h1>
 
 <p align="center">
