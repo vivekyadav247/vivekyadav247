@@ -81,10 +81,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <b>⚠️ If snake is not visible yet:</b> Go to <code>Actions → Generate Contribution Snake → Run workflow</code> once. It will create/update the <code>output</code> branch.
-</p>
-
 ---
 
 ## 🌐 Connect With Me
