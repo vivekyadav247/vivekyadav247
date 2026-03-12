@@ -25,9 +25,9 @@
 <tr>
 <td width="58%">
 
-- 🔭 Currently focused on **DSA + MERN + Spring Boot**
+- 🔭 Currently focused on **DSA + Full Stack**
 - 🌱 Learning deeply: **System Design + Problem Solving Patterns**
-- 🧠 Exploring: **AI integrations + Blockchain use-cases**
+- 🧠 Exploring: **AI / ML**
 - 🤝 Open for: **Open Source collaborations & exciting projects**
 - 🎯 2026 goal: Build products used by thousands
 - ☕ Debug fuel: **Coffee + Late Night Focus**
@@ -44,7 +44,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,docker,git,github,linux,html,css,tailwind,bootstrap,vscode,postman&perline=11" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,docker,aws,git,github,linux,html,css,tailwind,bootstrap,vscode,postman&perline=11" />
 </p>
 
 ---
