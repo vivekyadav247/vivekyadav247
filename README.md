@@ -52,7 +52,6 @@
 ## 📊 GitHub Power Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekyadav247&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=vivekyadav247&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
