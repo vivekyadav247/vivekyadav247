@@ -56,11 +56,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=vivekyadav247&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav247&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="languages" />
-  <img width="58%" src="https://github-profile-trophy.vercel.app/?username=vivekyadav247&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="trophies" />
-</p>
-
 ---
 
 ## 🔥 Contribution Heatmap
