@@ -5,9 +5,9 @@
 
 > Developer who turns ideas into products that work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-yadav-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivek-yadav-coder](https://www.linkedin.com/in/vivek-07x/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vivekyadav247)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vivek_07x)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)]([https://x.com/vivek_07x](https://x.com/vivekdev_live))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekyad240706@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vivekyadav247&style=flat-square&color=6366f1)](https://github.com/vivekyadav247)
 
